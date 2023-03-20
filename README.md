@@ -1,4 +1,8 @@
-### Hi there 👋
+### En peu de mots
+Salut ! Je suis Gwenaëlle, étudiante en L3 mathématiques et L3 linguistique. Ici du code lié aux stages et à des projets personels. 
+
+Languages: Python 🐍, R 📊, LaTeX 📄 et some basic knowledge of C++
+
 
 <!--
 **GwenaelleLeon/GwenaelleLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
