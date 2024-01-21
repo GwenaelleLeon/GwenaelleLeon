@@ -1,7 +1,7 @@
 
-### Hi, I'm Gwenn!
+### Hi, I'm Gwenn 🙋🏻‍♀️!
 
-Currently studying a master in formal Mathematics and Linguistics. 
+Currently studying a master in formal Mathematics and Linguistics 📚. 
 
 ```python
 class Me:
