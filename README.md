@@ -1,8 +1,24 @@
-### En peu de mots
-Salut ! Je suis Gwenaëlle, étudiante en L3 mathématiques et L3 linguistique. Ici du code lié aux stages et à des projets personels. 
 
-Languages: Python 🐍, R 📊, LaTeX 📄 et some basic knowledge of C++
+### Hi, I'm Gwenn!
 
+Currently studying a master in formal Mathematics and Linguistics. 
+
+```python
+class Me:
+  def __init__(self):
+    self.name = "Gwenaelle"
+    self.countries=['France','Spain','Chili']
+    self.natural_languages=['Spanish', 'French', 'English', 'Italian']
+    self.programming_languages=['python', 'R']
+    self.interests=['ML for NLP', 'XAI']
+    self.status='at home'
+  def going_to_the_cinema():
+    self.status='at a parisian independent cinema'
+  def studying():
+    self.status='at Université Paris Cite'
+  def traveling():
+    self.stauts='at the airport'
+```
 
 <!--
 **GwenaelleLeon/GwenaelleLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
