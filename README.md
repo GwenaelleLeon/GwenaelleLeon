@@ -7,7 +7,7 @@ Currently studying a master in formal Mathematics and Linguistics.
 class Me:
   def __init__(self):
     self.name = "Gwenaelle"
-    self.countries=['France','Spain','Chili']
+    self.countries=['France','Spain','Chile']
     self.natural_languages=['Spanish', 'French', 'English', 'Italian']
     self.programming_languages=['python', 'R']
     self.interests=['ML for NLP', 'XAI']
@@ -17,7 +17,7 @@ class Me:
   def studying():
     self.status='at Université Paris Cite'
   def traveling():
-    self.stauts='at the airport'
+    self.status='at the airport'
 ```
 
 <!--
