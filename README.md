@@ -13,7 +13,7 @@ class Me:
     self.interests=['ML for NLP', 'XAI']
     self.status='at home'
   def going_to_the_cinema():
-    self.status='at a parisian independent cinema'
+    self.status='at a parisian cinema'
   def studying():
     self.status='at Université Paris Cite'
   def traveling():
